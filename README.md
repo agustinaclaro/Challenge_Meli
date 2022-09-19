@@ -3,14 +3,14 @@
 <p><em>Front End developer <a href="http://www.unb.br">Freelancer</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <>ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: agusrinaclaro]](https://www.linkedin.com/in/agustinaclarohanel/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/agustinaclaro/)
+[![Linkedin: agusrinaclaro](https://www.linkedin.com/in/agustinaclarohanel/)]
+[![GitHub Agustina](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/agustinaclaro/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Agus = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS,],
   tools: [React, Redux, Node],
