@@ -3,7 +3,10 @@
 <p><em>Front End developer <a href="http://www.unb.br">Freelancer</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <>ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: agusrinaclaro](https://www.linkedin.com/in/agustinaclarohanel/)]
+[![Linkedin: agustinaclaro](https://www.linkedin.com/in/agustinaclarohanel/)]
+
+https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustinaclarohanel/)](https://www.linkedin.com/in/agustinaclarohanel/)
+
 [![GitHub Agustina](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/agustinaclaro/)
 
 
