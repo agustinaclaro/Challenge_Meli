@@ -1,0 +1,23 @@
+.product_container-outside{
+    background-color: grey;
+    width: 100%;
+    height: 90vh;
+   
+    .product_container{
+        display: flex;
+        justify-content: space-around;
+        background-color: white;
+        margin: 40px;
+        .product_img{
+            max-width: 250px;
+        }
+        .product_price, .product_description{
+            font-size: 32px;
+        }
+        .product_place{
+            font-size: 17px;
+        }
+
+    }
+
+}

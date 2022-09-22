@@ -1,9 +1,11 @@
 
-const btnSearch = (e)=>{
-   
+
+function btnSearch (e){
+    let Info= document.getElementsByClassName("navbar_input")
     e.preventDefault();
-    console.log("aca"); 
+    console.log(Info.target.value); 
     
    
 
 }
+export default btnSearch;
