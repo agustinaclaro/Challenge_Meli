@@ -1,3 +1,4 @@
+
 export const getProducts = async ({ searchTerms }) => {
   // hago la API call.
 
@@ -5,7 +6,7 @@ export const getProducts = async ({ searchTerms }) => {
     const response = [
       {
         id: 123,
-        name: "producto 1",
+        name: "Deco Reverse Sombrero Oxford",
       },
       {
         id: 456,
@@ -25,8 +26,8 @@ export const getProductDetail = async ({ productId }) => {
   try {
     const response = {
       id: productId,
-      name: "producto 1",
-      price: 999,
+      name: "Deco Reverse Sombrero Oxford",
+      price:"$1980",
     };
 
     return response;

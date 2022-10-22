@@ -9,7 +9,7 @@
 const Agus = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS,],
-  tools: [React, Redux, Node],
+  tools: [React, Node],
   architecture: ["APi Call", "Challenge", "Filter Products"],
  
  challenge: "I am doing the challenge, for be focused on react"
@@ -21,4 +21,4 @@ const Agus = {
 -----
  [Agustina claro](https://github.com/agustinaclaro/)
 
-Last Edited on: 18/09/2022
+Last Edited on: 18/10/2022
